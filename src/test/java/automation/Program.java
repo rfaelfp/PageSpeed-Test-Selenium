@@ -41,9 +41,10 @@ public class Program {
         
         for(String site: sites) {
             Modelo modelo = AutomationOne.searchScoreSite(site);
-            recordFile.println(modelo.getSite() + ";" + modelo.getResultMobile() + ";" + modelo.getResultDesktop());            
+            recordFile.println(modelo.formatString());            
         }
 
+        arq.close();
         recordFile.close();
 
         

@@ -40,4 +40,8 @@ public class Modelo {
         return this.site;
     }
 
+    public String formatString() {
+        return this.site + ";" + this.resultMobile + ";" + this.resultDesktop;
+    }
+
 }
