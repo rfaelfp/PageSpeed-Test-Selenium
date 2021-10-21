@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9b74086-b6b4-4c81-ab67-f3333df7de28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/gherkin_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_one/AutomateOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_three/AutomationThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_two/AutomateTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/gherkin_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_scenario/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_scenario/gherkin_03.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tjhzxMuNjlPJuEb0hLS6moTFuu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\test_ciet_java_selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AutomationThree.createAPI">
+    <configuration name="AutomationOne.searchQuestionNoExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_ciet_java_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation" />
+      <option name="MAIN_CLASS_NAME" value="automation.AutomationOne" />
+      <option name="METHOD_NAME" value="searchQuestionNoExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationThree.createAPI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_ciet_java_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation" />
+      <option name="MAIN_CLASS_NAME" value="automation.AutomationThree" />
+      <option name="METHOD_NAME" value="createAPI" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutomationTwo.searchByCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test_ciet_java_selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation" />
+      <option name="MAIN_CLASS_NAME" value="automation.AutomationTwo" />
+      <option name="METHOD_NAME" value="searchByCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutomationThree.createAPI" />
+        <item itemvalue="JUnit.AutomationTwo.searchByCategory" />
+        <item itemvalue="JUnit.AutomationOne.searchQuestionNoExist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b74086-b6b4-4c81-ab67-f3333df7de28" name="Default Changelist" comment="" />
+      <created>1623288672210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623288672210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/automation/AutomationOne.java</url>
+          <line>12</line>
+          <properties class="automation.AutomationOne" method="searchQuestionNoExist">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
