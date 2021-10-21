@@ -37,7 +37,5 @@ The following tools were used in the construction of the project:
 
 <h2 id=autor>:grin: Author</h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>, <a href="https://www.linkedin.com/in/douglas-ramos-78362099/" target="_blank">Douglas Ramos</a>, <a href="https://www.linkedin.com/in/francisco-fontoura/" target="_blank">Francisco Fontoura</a> and <a href="https://www.linkedin.com/in/rafael-ferreira-pedrosa-021b16ba/" target="_blank">Rafael Pedrosa</a>
-
 <h2 id=licenca>:lock: Licence</h2>
 <a href="https://github.com/danhpaiva/windows-themes/blob/main/LICENSE" target="_blank">MIT</a>
