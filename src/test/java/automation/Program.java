@@ -13,7 +13,7 @@ public class Program {
 
     public static void main(String[] args) throws IOException {
 
-        List<String> sites = new ArrayList<String>();
+        /*List<String> sites = new ArrayList<String>();
         Scanner readPathFile = new Scanner(System.in);
 
         System.out.printf("Informe o nome de arquivo texto:\n");
@@ -30,7 +30,7 @@ public class Program {
         }
         
         file.close();
-        readPathFile.close();
+        readPathFile.close();*/
 
         FileWriter arq = new FileWriter("c:\\data_adv\\result.csv");
         PrintWriter recordFile = new PrintWriter(arq);
@@ -38,8 +38,10 @@ public class Program {
 
         recordFile.println("Site;Score Mobile;Score Desktop");
 
+        UrlInput sites = new UrlInput();
         
-        for(String site: sites) {
+        
+        for(String site: sites.url) {
             Modelo modelo = AutomationOne.searchScoreSite(site);
             recordFile.println(modelo.formatString());            
         }
